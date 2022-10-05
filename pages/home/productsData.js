@@ -1,4 +1,5 @@
 const products = [
+  
   {
     title: "Magnetite",
     category: 1,

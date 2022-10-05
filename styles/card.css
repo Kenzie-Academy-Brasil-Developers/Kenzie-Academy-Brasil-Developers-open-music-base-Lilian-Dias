@@ -1,0 +1,12 @@
+.card{
+    background-color: var(--card-background) ;
+    width: 19.25rem;
+    height: 16.188rem;
+    margin-right: 1.563px;
+    margin-bottom: 2.375px;
+}
+
+li > img{
+    width: 19.25rem;
+    height: 7.063rem;
+}
